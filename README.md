@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Avri-Here
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... avriwork05484@gmail.com
+- 👋 Hi, I’m @Avri-Here !
+- 
+- 📫 How to reach me -->   avriwork05484@gmail.com || yoti1492@gmail.com ..
 
 
 <!---
