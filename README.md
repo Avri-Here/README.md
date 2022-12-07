@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Avri !
-- 
-- 📫 How to reach me    -->     avriwork05484@gmail.com || yoti1492@gmail.com ..
+- 📫 How to reach me ? avriwork05484@gmail.com :  yoti1492@gmail.com ..
 
 - My projects.. 
 <!------>
