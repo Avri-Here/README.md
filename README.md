@@ -3,11 +3,7 @@
 
 - My projects.. 
 <!------>
-🍄 Super Mario Bros. clone
-🗺️ Risk board game
-🔫 Top down shooter game
-🌐 Websocket multiplayer
-🏃 A "Serious Game"
+
 🌐 https://avriapphere.netlify.app/Sign-In
 <!------>
 🌐 https://imaginative-truffle-1d0196.netlify.app/
