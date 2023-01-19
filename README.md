@@ -5,8 +5,7 @@
 
 - My projects in netlify .. 
 <!------>
-https://thunderous-cheesecake-e9cbb0.netlify.app/
-<!------>
+🌐 https://thunderous-cheesecake-e9cbb0.netlify.app/
 
 🌐 https://avriapphere.netlify.app/Sign-In
 <!------>
