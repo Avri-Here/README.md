@@ -10,12 +10,9 @@
 
 <br/>
 
-
-# Talk is cheap, see my code !
-<br/>
 Always like to learn new topics And technologies, I write code in different languages And computer technician in my free time !
 <br/>
-
+Talk is cheap - See my code !
 
 
 ## 🌐 Socials :
@@ -41,4 +38,6 @@ Always like to learn new topics And technologies, I write code in different lang
 [![](https://visitcount.itsvg.in/api?id=Avri-Here&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Talk is cheap -  see my code !
 
